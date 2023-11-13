@@ -1,12 +1,28 @@
-## Hi there 👋
+## About 👋
 
-<!--
+Ardaku is a free-form organization made of entirely volunteers created with the goal of empowering people to use computers more enjoyably and efficiently.
 
-**Here are some ideas to get you started:**
+## Contribution Guidelines 🌈
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Opening issues has no hard guidelines, and is appreciated.
+Commenting on an issue off-topic will be followed by a warning, and deletion of the comment.
+Any kind of harassment will lead to the offender being blocked from contributing.
+Preëxisting issues are not required for opening a PR.
+Open a PR for each change you wish to submit.
+All PRs will be merged with the squash-and-merge method.
+Don't hesitate to reach out to me at <aldaronlau@gmail.com> if you don't feel that you can contribute, or you don't feel welcomed, and I'll try to make it better.
+
+## Useful Resources 🧑‍💻
+### Quantii Project 🧙
+An OS that runs a WebAssembly userspace!
+
+<!-- If you want ideas on what to contribute to, check out our [Quantii v0.0.1 Roadmap](https://github.com/orgs/ardaku/projects/1/views/1) -->
+
+If you'd like to join the Discord, send a Message to @AldaronLau
+
+### Cala Project 🍄
+Easy and powerful crates for cross-platform application development!
+
+<!-- TODO: Cala roadmap -->
+
+[Join The Cala Discord](https://discord.gg/nXwF59K)
