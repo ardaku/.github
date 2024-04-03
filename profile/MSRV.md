@@ -35,7 +35,6 @@ MSRV may be decreased on patch version bumps.
 Each minor version is maintained at least until its chosen version of Rust is over 1.5 years old (for 13 Rust versions).
 Editions chosen should always be the latest for that version of Rust.
 Major versions should correspond with minimum edition bumps.
-The minimum edition for a crate version should be the previous edition.
 
  - 1.77 - Highest MSRV the crate can have
  - 1.81 - Current Rust
