@@ -29,7 +29,7 @@ Example:
 
 Project is considered "complete" in API design and cross-platform testing.
 Similary, the fourth previous release from current Rust is the maximum MSRV of the crate.
-Long term Rust version support on x.0.z (1.5+ years).
+Long term Rust version support on x.y.* (1.5+ years).
 MSRV may only be changed on minor version bumps.
 MSRV may be decreased on patch version bumps.
 Each minor version is maintained at least until its chosen version of Rust is over 1.5 years old (for 13 Rust versions).
