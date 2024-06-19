@@ -42,8 +42,9 @@ Major versions should usually correspond with minimum edition bumps.
 
 ## Minimum MSRV
 
-New MSRVs can be less than what is specified above, but shouldn't go below Rust 1.65.
+New MSRVs can be less than what is specified above, but shouldn't go below Rust 1.70.
 This will be increased in the future, but how that's decided is currently unspecified.
+Rust version 1.70 is chosen for sparse registries by default in CI.
 
 ## When To Update MSRV
 
