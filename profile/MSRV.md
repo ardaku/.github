@@ -19,11 +19,11 @@ Only the most recent minor version is maintained.
 
 Example:
 
- - 1.81 - Current Rust
- - 1.80
- - 1.79
- - 1.78
- - 1.77 - Highest MSRV the crate can have
+ - 1.84 - Current Rust
+ - 1.83
+ - 1.82
+ - 1.81
+ - 1.80 - Highest MSRV the crate can have
 
 ## Version x.y.z
 
@@ -36,9 +36,9 @@ Each minor version is maintained at least until its chosen version of Rust is ov
 Editions chosen must always be the latest for that version of Rust.
 Major versions should usually correspond with minimum edition bumps.
 
- - 1.77 - Highest MSRV the crate can have
- - 1.81 - Current Rust
- - 1.90 - MSRV 1.77 versions must be supported at least until this release
+ - 1.80 - Highest MSRV the crate can have
+ - 1.84 - Current Rust
+ - 1.93 - MSRV 1.80 versions must be supported at least until this release
 
 ## Minimum MSRV
 
